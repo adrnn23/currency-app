@@ -1,0 +1,1 @@
+C:\Users\adria\source\repos\CurrencyApp\CurrencyApp.csproj;x64

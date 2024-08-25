@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\CurrencyApp\\obj\\Release\\net8.0-android\\scopedcss\\bundle\\CurrencyApp.styles.css",
+      "PackagePath": "staticwebassets\\CurrencyApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\CurrencyApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\CurrencyApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\CurrencyApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\CurrencyApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\CurrencyApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-android\\staticwebassets\\msbuild.CurrencyApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-android\\staticwebassets\\msbuild.build.CurrencyApp.props",
+      "PackagePath": "build\\CurrencyApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.CurrencyApp.props",
+      "PackagePath": "buildMultiTargeting\\CurrencyApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.CurrencyApp.props",
+      "PackagePath": "buildTransitive\\CurrencyApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
